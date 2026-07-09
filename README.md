@@ -1,1 +1,4 @@
-9 July added searching algorithm- linear. 
+## 9 July
+
+- Implemented Linear Search algorithm
+- Implemented Binary Search algorithm
