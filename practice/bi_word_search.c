@@ -36,6 +36,5 @@ int main() {
     } else {
         printf("Word \"%s\" not found\n", target);
     }
-
     return 0;
 }
