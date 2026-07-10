@@ -7,3 +7,4 @@
 ## 10 July
 
 - Solved the word occourence and counting word by word
+- Modified the above problem
