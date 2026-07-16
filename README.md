@@ -9,3 +9,7 @@
 - Solved the word occourence and counting word by word
 - Modified the above problem
 - Implemented Binary Search for finding word in a dictionary and returning its index
+
+##
+- Implemented Quick sort in asce and desc
+- Implemented bubble sort in asce and desc
