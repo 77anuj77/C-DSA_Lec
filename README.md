@@ -10,6 +10,6 @@
 - Modified the above problem
 - Implemented Binary Search for finding word in a dictionary and returning its index
 
-##
+## 16 July
 - Implemented Quick sort in asce and desc
 - Implemented bubble sort in asce and desc
