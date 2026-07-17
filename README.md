@@ -16,3 +16,4 @@
 
 ## 17 July
 - Learned the Selection sort technique
+- Practiced smallest missing positive integer 
