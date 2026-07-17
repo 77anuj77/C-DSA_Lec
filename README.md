@@ -13,3 +13,6 @@
 ## 16 July
 - Implemented Quick sort in asce and desc
 - Implemented bubble sort in asce and desc
+
+## 17 July
+- Learned the Selection sort technique
