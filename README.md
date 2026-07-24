@@ -17,3 +17,7 @@
 ## 17 July
 - Learned the Selection sort technique
 - Practiced smallest missing positive integer 
+
+# 24 July
+- Learned the concept of Linked List
+- Practiced the problem of 3a linked list
