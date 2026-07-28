@@ -21,3 +21,6 @@
 # 24 July
 - Learned the concept of Linked List
 - Practiced the problem of 3a linked list
+
+# 25 July 
+- revised the Binary search and Linear search algorithm 
