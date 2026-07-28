@@ -24,3 +24,4 @@
 
 # 25 July 
 - revised the Binary search and Linear search algorithm 
+- revised the Sorting Algorithm and time complexity
