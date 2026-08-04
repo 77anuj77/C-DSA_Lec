@@ -1,3 +1,5 @@
+
+
 //given an array of woeds sorted in lexicographic (dictionar)order, perform a binary 
 //to find the index of a target woed is not present
 #include <stdio.h>
